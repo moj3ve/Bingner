@@ -1,0 +1,8 @@
+Codename: Bingner
+Components: main
+Description: Mirror of bingner's Repository. Supports Cydia and Zebra. (MIRROR)
+Label: Bingner (MIRROR)
+Origin: Bingner (MIRROR)
+Suite: stable
+Architectures: iphoneos-arm
+Version: 1.0
